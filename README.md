@@ -109,7 +109,7 @@ I also enjoy wireframing, UI UX and design in general.
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
 </a>
 
-<h4 align="left">UI Ux Design:</h4>
+<h4 align="left">UI UX Design:</h4>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 </a>

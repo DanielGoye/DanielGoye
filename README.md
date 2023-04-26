@@ -19,6 +19,10 @@ I also enjoy wireframing, UI UX and design in general.
         width="40" height="40" />
 </a>
 &nbsp;&nbsp;
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+</a>
+&nbsp;&nbsp;
 <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
 </a>

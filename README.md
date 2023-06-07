@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dan
 
-My name is Daniel Goye. I mainly do fullstack web development and mobile development
+My name is Daniel Goye. I mainly do fullstack web development and mobile development.
 
 I enjoy learning and  working in languages and frameworks like React and Flutter.
 

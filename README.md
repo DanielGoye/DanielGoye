@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Dan
+### Hi there 👋, I'm Daniel
 
 My name is Daniel Goye. I mainly do full-stack web development and mobile development.
 

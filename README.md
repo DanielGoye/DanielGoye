@@ -2,11 +2,9 @@
 
 My name is Daniel Goye. I mainly do full-stack web development and mobile development.
 
-I enjoy learning and  working in languages and frameworks like React and Flutter.
+I enjoy learning and working in languages and frameworks like React and Flutter.
 
 I also enjoy wireframing, UI UX, and design in general.
-
-You can view my portfolio here:<br/>https://superdevdan.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

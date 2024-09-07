@@ -6,7 +6,7 @@ I enjoy learning and working in languages and frameworks like React and Flutter.
 
 I also enjoy wireframing, UI UX, and design in general.
 
-You can view my portfolio <a href="https://danielgoye.com">here</a>.
+You can view my portfolio <a href="https://danielgoye.com" target="_blank" rel="noreferrer">here</a>.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
